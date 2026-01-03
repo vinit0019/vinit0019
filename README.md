@@ -15,7 +15,7 @@ For Internship, Projects, or Collaboration 😊
 - 🤔 I’m looking for help with:
   Real-world project experience & best practices in Full-Stack Development
 - 💬 Ask me about:
-  HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, Tailwind CSS
+  HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, Tailwind CSS, Bootstrap, React Native(Basics), SQL(Basics), UI/UX[Figma-Adobe_Illustration-Adobe_Photoshop(Basics)]  
 - 📫 How to reach me:
   marthakvinit5@gmail.com ,phone - 7016631541
 - 😄 Pronouns: He / Him
